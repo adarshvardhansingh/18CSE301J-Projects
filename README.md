@@ -48,7 +48,7 @@
 | 45 |	ADARSH JAMUAAR (RA2011028010018) | [Link](https://adarshjamuaar.github.io/18CSE301J_RA2011028010018/) | 1 |:white_check_mark:|
 | 46 |	SUDHERSAN SRINIVASAN K V (RA2011030010094) | [Link]() | 1 | |
 | 47 |  ANAS AHMED ATHER (RA2011031010006) | [Link](https://anas07860.github.io/18CSE301J_RA2011031010006/) | 1 |:white_check_mark: |
-| 48 |	PRITHVI SINGH KIRAR (RA2011031010023) | [Link](https://pritvii.github.io/18CSE301J_RA2011031010023/) | 1 |:white_check_mark: |
+| 48 |	PRITHVI SINGH KIRAR (RA2011031010023) | [Link]() | 1 | |
 | 49 |	SHARWAN KUMAR (RA2011031010034) | [Link](https://sharwannnn.github.io/18CSE301J-RA2011031010034/) | 1 | :white_check_mark: |
 | 50 |  Kartik jaiswal (RA2011031010060) | [Link](https://kj6219.github.io/18CSE301J_RA2011031010060/) | 1 | :white_check_mark:|
 | 51 |	SHIVAM KUMAR (RA2011031010066) | [Link](https://shivam9737.github.io/18CSE301J_RA2011031010066/) | 1 |:white_check_mark: |
@@ -66,7 +66,7 @@
 | 63 |	AADHITYA R (RA2011003010730) | [Link]() | 2 | |
 | 64 |	Vikash P R (RA2011003010737) | [Link](https://vikashpr.github.io/18CSE301J_RA2011003010737/) | 2 | :white_check_mark: |
 | 65 |	M M Sabaresh (RA2011003010781) | [Link](https://sabaresh1112002.github.io/18CSE301J_RA2011003010781/) | 2 | :white_check_mark: |
-| 66 |	ADARSH VARDHAN SINGH (RA2011003010794) | [Link]() | 2 | |
+| 66 |	ADARSH VARDHAN SINGH (RA2011003010794) | [Link](https://github.com/adarshvardhansingh/18CSE301J_RA2011003010794.git) | 2 | :white_check_mark: |
 | 67 |	Sidharth D (RA2011003010847) | [Link](https://nfinyte.github.io/18CSE301J_RA2011003010847/) | 2 | :white_check_mark: |
 | 68 |	ROUTHU MANOJ SITARAM (RA2011003011000) | [Link](https://manoj-routhu.github.io/18CSC301J_RA2011003011000/) | 2 | :white_check_mark:|
 | 69 |	ATHIVARAPU PRABHAV REDDY (RA2011003011010) | [Link](https://prabhav-ra2011003011010.github.io/18CSE301J_RA2011003011010/) | 2 |:white_check_mark: |
@@ -97,7 +97,7 @@
 | 94 |	VAARSHITH N (RA2011026010303) | [Link](https://sites.google.com/srmist.edu.in/varshith/home) | 2 |  :white_check_mark: |
 | 95 |	JANGITI ADITYA (RA2011026010386) | [Link]() | 2 | |
 | 96 |	Siripi Nikhil Kumar Reddy (RA2011026010435) | [Link](https://nikhil6800.github.io/18CSE301J_RA2011026010435/) | 2 | :white_check_mark: |
-| 97 |	Challa Shashank reddy (RA2011026010441) | [Link](https://shashank053.github.io/18CSE301J_RA2011026010441/) | 2 | :white_check_mark: |
+| 97 |	Challa Shashank reddy (RA2011026010441) | [Link]() | 2 | |
 | 98 |	Medisetti Jayaram (RA2011026010442) | [Link]() | 2 | |
 | 99 |	SHUBHAM GUSAIN (RA2011027010048) | [Link](https://shubhamgusain2112.github.io/18CSE301J_RA2011027010048/index.html) | 2 | :white_check_mark: |
 | 100 |	Tambe Utkarsh Yashwant (RA2011027010166) | [Link]() | 2 | |
